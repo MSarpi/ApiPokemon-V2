@@ -1,8 +1,8 @@
-## Instalacion
+# Instalacion
 
-Clona el repositorio: git clone https://github.com/MSarpi/ApiPokemon-V2.git
-Instala las dependencias: npm install
-Inicia la aplicación: npm start
+- **Clona el repositorio: git clone https://github.com/MSarpi/ApiPokemon-V2.git**
+- **Instala las dependencias: npm install**
+- **Inicia la aplicación: npm start**
 
 # Pokedex App
 
