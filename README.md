@@ -20,8 +20,3 @@ Esta aplicación React.js utiliza la Pokemon API para mostrar información detal
 
 - React.js: El marco de trabajo principal para construir la interfaz de usuario.
 - Pokemon API: Se utilizó para obtener datos sobre los Pokémon.
-
-## Adversidades y Soluciones
-
-1.- La version 2 mejora drasticamente los llamados en comparacion a la primera version.
-
