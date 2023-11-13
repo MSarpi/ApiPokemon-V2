@@ -7,6 +7,7 @@ import './App.css';
 import '../src/component/css/buscador.css';
 import '../src/component/css/cardpokemon.css';
 import '../src/component/css/modal_resultado_buscador.css';
+import Footer from "./component/componentes/Footer";
 
 
 
@@ -73,6 +74,7 @@ useEffect(() => {
         </header>
         <div className="container-fluid bg-secondary altura"></div>
         <CardPokemon/>
+        <Footer/>
       </div>
     </>
 
